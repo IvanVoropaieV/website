@@ -1,20 +1,20 @@
 //массив баннеров 
 const images = [
-    'url(../assets/img/banner1.png)',
-    'url(../assets/img/banner2.png)',
-    'url(../assets/img/banner3.png)',
-    'url(../assets/img/banner4.png)',
+    'url(./img/banner1.png)',
+    'url(./img/banner2.png)',
+    'url(./img/banner3.png)',
+    'url(./img/banner4.png)',
 ];
 
 const pic = document.getElementById('bn_rand');
 
 //массив портфолио
 const portfimg = [
-    'url(../assets/img/pr1.png)',
-    'url(../assets/img/pr2.png)',
-    'url(../assets/img/pr3.png)',
-    'url(../assets/img/pr4.png)',
-    'url(../assets/img/pr5.png)',
+    'url(./img/pr1.png)',
+    'url(./img/pr2.png)',
+    'url(./img/pr3.png)',
+    'url(./img/pr4.png)',
+    'url(./img/pr5.png)',
 ];
 
 let primgslide = 0;
